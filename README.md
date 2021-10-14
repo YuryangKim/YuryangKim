@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**YuryangKim/YuryangKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - **I'm front-end developer**
 
-Here are some ideas to get you started:
+### How to reach me?
+ - **email ...** [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)](mailto:flowratekim@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - **blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://fomaios.tistory.com/)](https://YuryangKim.github.io/)
+
+### Interest
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuryangKim&&show_icons=true&theme=nightowl)]
