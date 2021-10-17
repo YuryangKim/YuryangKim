@@ -1,6 +1,6 @@
 ### Hello!
 
- - **I'm front-end developer**
+ - **I will be a front-end developer**
 
 ### How to reach me?
  - **email ...** [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)](mailto:flowratekim@gmail.com)
