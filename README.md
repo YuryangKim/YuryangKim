@@ -27,6 +27,6 @@
 
  - [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://YuryangKim.github.io/)](https://YuryangKim.github.io/)
 
- - [!(https://img.shields.io/badge/Instagram-7B1FA2?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/flowratekim/)]
+ - [Instagram Badge]!(https://img.shields.io/badge/Instagram-7B1FA2?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/flowratekim/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuryangKim&&show_icons=true&theme=nightowl)
