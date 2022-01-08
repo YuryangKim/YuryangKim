@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=YuryangKim&fontSize=90)
 
----
+## 안녕하세요 반갑습니다. 
 
 - 저는 사회복지 2급 자격증을 가지고 있고, 법학과를 나온 프론트엔드 엔지니어 입니다.
 - 유튜브 채널 구독자수 1,000명에서 10,000명까지 달성한 메인 편집자로서, 유튜브 시청자들의 평가를 받아본 적이 있습니다.
