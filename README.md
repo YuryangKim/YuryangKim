@@ -18,7 +18,7 @@
 - Build Tool (`Create React App`)
 - Code Quality Tool (`ESLint`, `Stylelint`, `Prettier`)
 - VCS (`Git`, `Github`)
-- Other Tools (`Slack`, `Figma`, `Trello`, `Notion`)
+- Other Tools (`Slack`, `Trello`, `Notion`, `Photoshop`)
 
 <br/>
 
