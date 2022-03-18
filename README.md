@@ -11,15 +11,15 @@
 
 ## Tech Stack 
 
-- Language : `Javascript`,  `TypeScript`
+- Language : `Javascript`
 - Library : `React`, `React-Router`
 - Framework :  `React-Native`
 - UI : `Styled-Component`, `Sass`
-- Build Tool (`Create React App`)
-- Code Quality Tool (`ESLint`, `Stylelint`, `Prettier`)
-- VCS (`Git`, `Github`)
+- Build Tool : `Create React App`
+- Code Quality Tool : `ESLint`, `Stylelint`, `Prettier`
+- VCS : `Git`, `Github`
 - Deploy : `netlify`
-- Other Tools (`Slack`, `Trello`, `Notion`, `Photoshop`)
+- Other Tools : `Slack`,`Trello`,`Notion`, `Photoshop`
 
 <br/>
 
